@@ -1,0 +1,6 @@
+{
+  "name": "AI Awareness Campaign Generator",
+  "description": "An AI-powered application that helps NGOs and social organizations generate high-impact awareness campaigns with social posts, posters, and messages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
